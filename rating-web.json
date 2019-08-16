@@ -264,7 +264,7 @@
       "displayName": "Git Repository URL",
       "description": "The URL of the repository with your application source code.",
       "required": true,
-      "value": "http://gogs-cicd-nangu.apps.dd80.example.opentlc.com/gogs/rating-api.git"
+      "value": "http://gogs-cicd-nangu.apps.dd80.example.opentlc.com/gogs/rating-web.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
