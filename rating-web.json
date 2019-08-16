@@ -193,7 +193,6 @@
                     "containerPort": 8080
                   }
                 ],
- 
                 "readinessProbe": {
                   "timeoutSeconds": 3,
                   "initialDelaySeconds": 3,
