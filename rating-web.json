@@ -15,7 +15,7 @@
       "template.openshift.io/bindable": "false"
     }
   },
-  "message": "The following service(s) have been created in your project: ${NAME}.\n\n ",
+  "message": "The following service(s) have been created in your project: ${NAME}. ",
   "labels": {
       "template": "rating-web",
       "app": "rating-api-web"
@@ -221,7 +221,7 @@
         }
       }
     },
-  ]
+  ],
   "parameters": [
     {
       "name": "NAME",
